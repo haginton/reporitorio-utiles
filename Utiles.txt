@@ -3,3 +3,4 @@
 3. Tijeras
 4. Colores
 5. Cuaderno
+6. Regla
